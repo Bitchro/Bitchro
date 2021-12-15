@@ -25,7 +25,7 @@ export default class Team extends Component {
                   name="Salmon Cathol"
                   designation="Chief Executive Officer"
                   img={process.env.PUBLIC_URL + "/assets/Team/selmon.jpg"}
-                  linked={"https://www.linkedin.com/in/salmon-cathol-536459228/"}
+                  linked={"https://www.linkedin.com/in/Salmon-cathol-536459228/"}
                 />
                 <TeamCompo
                   name="Wilhelm Carl"
